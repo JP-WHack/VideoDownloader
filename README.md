@@ -1,4 +1,4 @@
-# 🏴‍☠️ Terminal Video Downloader (ハッカー風)
+# 🏴‍☠️ Video Downloader
 
 ```
 $ python dl.py
